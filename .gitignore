@@ -1,0 +1,5 @@
+# .ignore for LT-doc project
+*.bak
+*.backup
+*.swp
+*.pdf
