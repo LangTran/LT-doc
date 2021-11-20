@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2019-04-18T17:20:35.573000000</dc:date><meta:generator>LibreOffice/6.0.4.2$Windows_x86 LibreOffice_project/9b0d9b32d5dcda91d2f1a96dc04c645c450872bf</meta:generator><meta:editing-duration>P3DT23H12M39S</meta:editing-duration><meta:editing-cycles>97</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="12" meta:word-count="604" meta:character-count="3496" meta:non-whitespace-character-count="2905"/></office:meta>
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2021-11-20T13:32:08.792511863</dc:date><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:editing-duration>P3DT23H18M7S</meta:editing-duration><meta:editing-cycles>98</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="12" meta:word-count="604" meta:character-count="3496" meta:non-whitespace-character-count="2905"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">15723</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">5613</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22024</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">9610</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22013</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">10134</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">6639</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">20507</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">6930</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">7976</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">15723</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22022</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">25331</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">5613</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22012</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">15744</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -29,91 +29,102 @@
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string"/>
-   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
-   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">257422</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2219721</config:config-item>
-   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="TabOverflow" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2308084</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">257422</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -135,14 +146,14 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#808080" draw:fill-color="#cfe7f5" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="true"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="AU" style:letter-kerning="true" style:font-name-asian="WenQuanYi Micro Hei" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Hindi" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
    <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="lr-tb"/>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="AU" style:letter-kerning="true" style:font-name-asian="WenQuanYi Micro Hei" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Hindi" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="AU" style:letter-kerning="true" style:font-name-asian="WenQuanYi Micro Hei" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Hindi" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
   </style:default-style>
   <style:default-style style:family="table">
    <style:table-properties table:border-model="collapsing"/>
@@ -183,6 +194,14 @@
   </style:style>
   <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
    <style:paragraph-properties text:number-lines="false" text:line-number="0">
@@ -726,7 +745,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1">
    <style:footer>
-    <text:p text:style-name="Footer"><text:file-name text:display="name-and-extension">1_LangTran_setup.fodt</text:file-name><text:tab/><text:modification-date style:data-style-name="N75">18 Apr 2019</text:modification-date><text:tab/>p. <text:page-number text:select-page="current">1</text:page-number></text:p>
+    <text:p text:style-name="Footer"><text:file-name text:display="name-and-extension">1_LangTran_setup.fodt</text:file-name><text:tab/><text:modification-date style:data-style-name="N75">20 Nov 2021</text:modification-date><text:tab/>p. <text:page-number text:select-page="current">1</text:page-number></text:p>
    </style:footer>
   </style:master-page>
  </office:master-styles>
@@ -738,21 +757,22 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
    <text:p text:style-name="Title">The LangTran system – <text:line-break/>setup information</text:p>
    <text:p text:style-name="Subtitle">Jim Henderson</text:p>
    <text:p text:style-name="Subtitle"><text:a xlink:type="simple" xlink:href="mailto:Owner_LangTran@SIL.org?subject=[LangTran]%20" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Owner_LangTran@SIL.org</text:a></text:p>
    <text:p text:style-name="P11">The LangTran system provides a repository “in the cloud” (ie. on a <text:span text:style-name="T54">computer connected to the</text:span> internet) where we can put software useful in language and translation work. You can run a program that will download what you want from the repository, without having to go to a different web site to get each program. This saves a lot of download megabytes, and helps you have the latest version of each program available before you go to a remote location. </text:p>
    <text:p text:style-name="P12">There are <text:span text:style-name="T80">four ways you can get software installers from the internet repository:</text:span></text:p>
-   <text:list xml:id="list249198148" text:style-name="L1">
+   <text:list xml:id="list4266112068" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P36"><text:span text:style-name="T51">If you have a </text:span><text:bookmark-start text:name="good internet connection"/><text:span text:style-name="T51">good internet connection</text:span><text:bookmark-end text:name="good internet connection"/><text:span text:style-name="T51"> at your main support centre</text:span>, you can use free software called <text:span text:style-name="T11">Resilio Sync</text:span> <text:span text:style-name="T83">(previously </text:span><text:span text:style-name="T1">BitTorrent Sync</text:span><text:span text:style-name="T83">) </text:span>to update your local repository whenever you are connected to the internet. (If you sometimes connect by a slow or expensive method, such as via a mobile phone, you would need to turn off your <text:span text:style-name="T83">Resilio or </text:span>BitTorrent Sync client when using that method, and turn it on when you have the good connection <text:span text:style-name="T56">again</text:span>.) To set up this form of updating, work through the file <text:span text:style-name="T10">2_LT_BTSync_Setup.pdf</text:span> <text:span text:style-name="T81">(If you have downloaded it to the same folder as this file, click </text:span><text:a xlink:type="simple" xlink:href="2_LT_BTSync_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T81">here</text:span></text:a>, <text:span text:style-name="T81">otherwise </text:span><text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/Documentation/2_LT_BTSync_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T81">download it</text:span></text:a><text:span text:style-name="T81">)</text:span>.</text:p>
+     <text:p text:style-name="P36"><text:span text:style-name="T51">If you have a </text:span><text:bookmark-start text:name="good internet connection"/><text:span text:style-name="T51">good internet connection</text:span><text:bookmark-end text:name="good internet connection"/><text:span text:style-name="T51"> at your main support centre</text:span>, you can use free software called <text:span text:style-name="T11">Resilio Sync</text:span> <text:span text:style-name="T83">(previously </text:span><text:span text:style-name="T1">BitTorrent Sync</text:span><text:span text:style-name="T83">) </text:span>to update your local repository whenever you are connected to the internet. (If you sometimes connect by a slow or expensive method, such as via a mobile phone, you would need to turn off your <text:span text:style-name="T83">Resilio or </text:span>BitTorrent Sync client when using that method, and turn it on when you have the good connection <text:span text:style-name="T56">again</text:span>.) To set up this form of updating, work through the file <text:span text:style-name="T10">2_LT_BTSync_Setup.pdf</text:span> <text:span text:style-name="T81">(If you have downloaded it to the same folder as this file, click </text:span><text:a xlink:type="simple" xlink:href="2_LT_BTSync_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T81">here</text:span></text:a>, <text:span text:style-name="T81">otherwise </text:span><text:a xlink:type="simple" xlink:href="https://files.lingtransoft.info:64532/Documentation/2_LT_BTSync_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T81">download it</text:span></text:a><text:span text:style-name="T81">)</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P37"><text:span text:style-name="T51">If there are often </text:span><text:bookmark-start text:name="problems with internet connection"/><text:span text:style-name="T51">problems with your internet connection</text:span><text:bookmark-end text:name="problems with internet connection"/>, or if it only works reliably in the small hours of the morning, or if your Internet Service Provider blocks BitTorrent Sync traffic, you will do better <text:span text:style-name="T57">using </text:span><text:span text:style-name="T23">the </text:span><text:span text:style-name="T8">LangTranUpdate</text:span><text:span text:style-name="T23"> method and get updates from the LangTran server. To do this, work through the file </text:span><text:a xlink:type="simple" xlink:href="2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T24">2_LT_Update_setup.pdf</text:span></text:a><text:span text:style-name="T24">. </text:span><text:span text:style-name="T26">(If you have downloaded it to the same folder as this file, click </text:span><text:a xlink:type="simple" xlink:href="2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T26">here</text:span></text:a><text:span text:style-name="T18">, </text:span><text:span text:style-name="T26">otherwise </text:span><text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/Documentation/2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T26">download it</text:span></text:a><text:span text:style-name="T26">)</text:span><text:span text:style-name="T23">.</text:span></text:p>
+     <text:p text:style-name="P37"><text:span text:style-name="T51">If there are often </text:span><text:bookmark-start text:name="problems with internet connection"/><text:span text:style-name="T51">problems with your internet connection</text:span><text:bookmark-end text:name="problems with internet connection"/>, or if it only works reliably in the small hours of the morning, or if your Internet Service Provider blocks BitTorrent Sync traffic, you will do better <text:span text:style-name="T57">using </text:span><text:span text:style-name="T23">the </text:span><text:span text:style-name="T8">LangTranUpdate</text:span><text:span text:style-name="T23"> method and get updates from the LangTran server. To do this, work through the file </text:span><text:a xlink:type="simple" xlink:href="2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T24">2_LT_Update_setup.pdf</text:span></text:a><text:span text:style-name="T24">. </text:span><text:span text:style-name="T26">(If you have downloaded it to the same folder as this file, click </text:span><text:a xlink:type="simple" xlink:href="2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T26">here</text:span></text:a><text:span text:style-name="T18">, </text:span><text:span text:style-name="T26">otherwise </text:span><text:a xlink:type="simple" xlink:href="https://files.lingtransoft.info:64532/Documentation/2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T26">download it</text:span></text:a><text:span text:style-name="T26">)</text:span><text:span text:style-name="T23">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35"><text:span text:style-name="T35">I</text:span><text:span text:style-name="T37">f you </text:span><text:bookmark-start text:name="no good internet connection"/><text:span text:style-name="T37">never have a good and cheap internet connection</text:span><text:bookmark-end text:name="no good internet connection"/><text:span text:style-name="T30">, you can get individual installers from the LangTran system instead of from the developers&apos; websites. This can save you time and the cost of downloading advertisements and extra smart items the sponsors of the software wanted you to have. To do that, </text:span><text:span text:style-name="T29">click on this link to</text:span><text:span text:style-name="T70"> the file </text:span><text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/LangTranFiles.txt" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T78">LangTranFiles.txt</text:span></text:a><text:span text:style-name="T78"> </text:span><text:span text:style-name="T69">and the file will open in your web browser.</text:span><text:span text:style-name="T70"> </text:span><text:span text:style-name="T65">Then search that file </text:span><text:span text:style-name="T69">(</text:span><text:span text:style-name="T77">Ctrl-F</text:span><text:span text:style-name="T69"> in many browsers)</text:span><text:span text:style-name="T65"> for the installer that you want, and note the </text:span><text:span text:style-name="T69">folder</text:span><text:span text:style-name="T65"> that it is in, </text:span><text:span text:style-name="T68">such as </text:span><text:span text:style-name="T84">Linguistics_win</text:span><text:span text:style-name="T65">. Then </text:span><text:span text:style-name="T69">click on </text:span><text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T69">LangTran file store</text:span></text:a><text:span text:style-name="T69"> to open it in your </text:span><text:span text:style-name="T65">web browser. </text:span><text:span text:style-name="T71">Browse to the folder you noted above, then right-click the file you want to download and select </text:span><text:span text:style-name="T79">Save Link As a</text:span><text:span text:style-name="T71">nd download the file.</text:span></text:p>
+     <text:p text:style-name="P35"><text:span text:style-name="T35">I</text:span><text:span text:style-name="T37">f you </text:span><text:bookmark-start text:name="no good internet connection"/><text:span text:style-name="T37">never have a good and cheap internet connection</text:span><text:bookmark-end text:name="no good internet connection"/><text:span text:style-name="T30">, you can get individual installers from the LangTran system instead of from the developers&apos; websites. This can save you time and the cost of downloading advertisements and extra smart items the sponsors of the software wanted you to have. To do that, </text:span><text:span text:style-name="T29">click on this link to</text:span><text:span text:style-name="T70"> the file </text:span><text:a xlink:type="simple" xlink:href="https://files.lingtransoft.info:64532/LangTranFiles.txt" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T78">LangTranFiles.txt</text:span></text:a><text:span text:style-name="T78"> </text:span><text:span text:style-name="T69">and the file will open in your web browser.</text:span><text:span text:style-name="T70"> </text:span><text:span text:style-name="T65">Then search that file </text:span><text:span text:style-name="T69">(</text:span><text:span text:style-name="T77">Ctrl-F</text:span><text:span text:style-name="T69"> in many browsers)</text:span><text:span text:style-name="T65"> for the installer that you want, and note the </text:span><text:span text:style-name="T69">folder</text:span><text:span text:style-name="T65"> that it is in, </text:span><text:span text:style-name="T68">such as </text:span><text:span text:style-name="T84">Linguistics_win</text:span><text:span text:style-name="T65">. Then </text:span><text:span text:style-name="T69">click on </text:span><text:a xlink:type="simple" xlink:href="https://files.lingtransoft.info:64532/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T69">LangTran file store</text:span></text:a><text:span text:style-name="T69"> to open it in your </text:span><text:span text:style-name="T65">web browser. </text:span><text:span text:style-name="T71">Browse to the folder you noted above, then right-click the file you want to download and select </text:span><text:span text:style-name="T79">Save Link As a</text:span><text:span text:style-name="T71">nd download the file.</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P38"><text:span text:style-name="T36">If your </text:span><text:bookmark-start text:name="support department copy"/><text:span text:style-name="T36">support department maintains an up-to-date local copy</text:span><text:bookmark-end text:name="support department copy"/><text:span text:style-name="T19"> of the LangTran files, you can pick up the latest installers from their network server when you are at the support centre. </text:span><text:span text:style-name="T27">So that you don&apos;t have to remember to collect the latest installer for each program you might need in a remote location and update them individually, </text:span><text:span text:style-name="T19">I suggest you set up a synchronizing tool such as </text:span><text:span text:style-name="T28">Resilio Sync (or </text:span><text:span text:style-name="T19">BitTorrent Sync</text:span><text:span text:style-name="T28">)</text:span><text:span text:style-name="T19"> to update the repository on your personal computer from this site before you leave the internet and travel to a remote place. Your support people would need to give you the read-only “secret” for the files in their repository </text:span><text:span text:style-name="T31">for Resilio/BitTorrent Sync to work</text:span><text:span text:style-name="T19">.</text:span></text:p>

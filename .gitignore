@@ -2,4 +2,4 @@
 *.bak
 *.backup
 *.swp
-*.pdf
+# *.pdf
