@@ -2,7 +2,7 @@
 *.bak
 *.backup
 *.swp
-# *.pdf
+*.pdf
 *.odt
 *.png
 *.mp4
