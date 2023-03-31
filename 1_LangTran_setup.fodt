@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2023-03-15T16:23:57.782935475</dc:date><meta:generator>LibreOffice/7.3.4.2$MacOSX_X86_64 LibreOffice_project/728fec16bd5f605073805c3c9e7c4212a0120dc5</meta:generator><meta:editing-duration>P4DT17H5M38S</meta:editing-duration><meta:editing-cycles>100</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="12" meta:word-count="609" meta:character-count="3516" meta:non-whitespace-character-count="2920"/></office:meta>
+ <office:meta><dc:date>2023-03-31T16:36:37.075937977</dc:date><meta:generator>LibreOffice/7.3.4.2$MacOSX_X86_64 LibreOffice_project/728fec16bd5f605073805c3c9e7c4212a0120dc5</meta:generator><meta:editing-duration>P4DT17H13M34S</meta:editing-duration><meta:editing-cycles>102</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="12" meta:word-count="579" meta:character-count="3343" meta:non-whitespace-character-count="2777"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">25321</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">15856</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22126</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">11164</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22070</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13247</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">15610</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">32703</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9306</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">26285</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">25321</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22124</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">36483</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">15856</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22068</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">29101</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">154</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">123</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
@@ -44,7 +44,7 @@
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2418300</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2545996</config:config-item>
    <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
@@ -153,7 +153,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#808080" draw:fill-color="#cfe7f5" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="true"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="AU" style:letter-kerning="true" style:font-name-asian="WenQuanYi Micro Hei1" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Hindi1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -420,6 +420,7 @@
    <style:text-properties officeooo:paragraph-rsid="0020b373"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0011b2ac" officeooo:paragraph-rsid="001e6fca"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
@@ -648,45 +649,48 @@
    <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="normal" officeooo:rsid="0024e67c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="normal" officeooo:rsid="0026beb5" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T75" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="001b11bb" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="001c82d8" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="001b11bb" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T77" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="0019284f" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="001c82d8" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T78" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="001357bd" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="0019284f" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T79" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="0020b373" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="001357bd" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T80" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="00128b7c" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="0020b373" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T81" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="0021bfcb" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="00128b7c" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T82" style:family="text">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="0024e67c" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="0021bfcb" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T83" style:family="text">
-   <style:text-properties officeooo:rsid="001c82d8"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" officeooo:rsid="0024e67c" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T84" style:family="text">
-   <style:text-properties officeooo:rsid="001ca0fb"/>
+   <style:text-properties officeooo:rsid="001c82d8"/>
   </style:style>
   <style:style style:name="T85" style:family="text">
-   <style:text-properties officeooo:rsid="001e6fca"/>
+   <style:text-properties officeooo:rsid="001ca0fb"/>
   </style:style>
   <style:style style:name="T86" style:family="text">
-   <style:text-properties officeooo:rsid="001ee5f8"/>
+   <style:text-properties officeooo:rsid="001e6fca"/>
   </style:style>
   <style:style style:name="T87" style:family="text">
+   <style:text-properties officeooo:rsid="001ee5f8"/>
+  </style:style>
+  <style:style style:name="T88" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" fo:letter-spacing="normal" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0019284f" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -764,7 +768,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="Footer"><text:file-name text:display="name-and-extension">1_LangTran_setup.fodt</text:file-name><text:tab/><text:modification-date style:data-style-name="N40">15 Mar 2023</text:modification-date><text:tab/>p. <text:page-number text:select-page="current">2</text:page-number></text:p>
+    <text:p text:style-name="Footer"><text:file-name text:display="name-and-extension">1_LangTran_setup.fodt</text:file-name><text:tab/><text:modification-date style:data-style-name="N40">31 Mar 2023</text:modification-date><text:tab/>p. <text:page-number text:select-page="current">2</text:page-number></text:p>
    </style:footer>
   </style:master-page>
  </office:master-styles>
@@ -782,23 +786,23 @@
    <text:p text:style-name="Subtitle">Jim Henderson</text:p>
    <text:p text:style-name="Subtitle"><text:a xlink:type="simple" xlink:href="mailto:Owner_LangTran@SIL.org?subject=[LangTran]%20" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Owner_LangTran@SIL.org</text:a></text:p>
    <text:p text:style-name="P24">The LangTran system provides a repository “in the cloud” (ie. on a <text:span text:style-name="T55">computer connected to the</text:span> internet) where we can put software useful in language and translation work. You can run a program that will download what you want from the repository, without having to go to a different web site to get each program. This saves a lot of download megabytes, and helps you have the latest version of each program available before you go to a remote location. </text:p>
-   <text:p text:style-name="P25">There are <text:span text:style-name="T83">four ways you can get software installers from the internet repository:</text:span></text:p>
-   <text:list xml:id="list1112151845" text:style-name="L1">
+   <text:p text:style-name="P25">There are <text:span text:style-name="T84">four ways you can get software installers from the internet repository:</text:span></text:p>
+   <text:list xml:id="list3961674279" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P36"><text:span text:style-name="T52">If you have a </text:span><text:bookmark-start text:name="good internet connection"/><text:span text:style-name="T52">good internet connection</text:span><text:bookmark-end text:name="good internet connection"/><text:span text:style-name="T52"> at your main support centre</text:span>, you can use free software called <text:span text:style-name="T11">Resilio Sync</text:span> <text:span text:style-name="T86">(previously </text:span><text:span text:style-name="T1">BitTorrent Sync</text:span><text:span text:style-name="T86">) </text:span>to update your local repository whenever you are connected to the internet. (If you sometimes connect by a slow or expensive method, such as via a mobile phone, you would need to turn off your <text:span text:style-name="T86">Resilio or </text:span>BitTorrent Sync client when using that method, and turn it on when you have the good connection <text:span text:style-name="T57">again</text:span>.) To set up this form of updating, work through the file <text:span text:style-name="T10">2_LT_BTSync_Setup.pdf</text:span> <text:span text:style-name="T84">(If you have downloaded it to the same folder as this file, click </text:span><text:a xlink:type="simple" xlink:href="2_LT_BTSync_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T84">here</text:span></text:a>, <text:span text:style-name="T84">otherwise </text:span><text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/Documentation/2_LT_BTSync_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T84">download it</text:span></text:a><text:span text:style-name="T84">)</text:span>.</text:p>
+     <text:p text:style-name="P36"><text:span text:style-name="T52">If you have a </text:span><text:bookmark-start text:name="good internet connection"/><text:span text:style-name="T52">good internet connection</text:span><text:bookmark-end text:name="good internet connection"/><text:span text:style-name="T52"> at your main support centre</text:span>, you can use free software called <text:span text:style-name="T11">Resilio Sync</text:span> <text:span text:style-name="T87">(previously </text:span><text:span text:style-name="T1">BitTorrent Sync</text:span><text:span text:style-name="T87">) </text:span>to update your local repository whenever you are connected to the internet. (If you sometimes connect by a slow or expensive method, such as via a mobile phone, you would need to turn off your <text:span text:style-name="T87">Resilio or </text:span>BitTorrent Sync client when using that method, and turn it on when you have the good connection <text:span text:style-name="T57">again</text:span>.) To set up this form of updating, work through the file <text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/Documentation/2_LT_BTSync_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T10">2_LT_BTSync_Setup.pdf</text:span></text:a>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P37"><text:span text:style-name="T52">If there are often </text:span><text:bookmark-start text:name="problems with internet connection"/><text:span text:style-name="T52">problems with your internet connection</text:span><text:bookmark-end text:name="problems with internet connection"/>, or if it only works reliably in the small hours of the morning, or if your Internet Service Provider blocks BitTorrent Sync traffic, you will do better <text:span text:style-name="T58">using </text:span><text:span text:style-name="T23">the </text:span><text:span text:style-name="T8">LangTranUpdate</text:span><text:span text:style-name="T23"> method and get updates from the LangTran server. To do this, work through the file </text:span><text:a xlink:type="simple" xlink:href="2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T24">2_LT_Update_setup.pdf</text:span></text:a><text:span text:style-name="T24">. </text:span><text:span text:style-name="T26">(If you have downloaded it to the same folder as this file, click </text:span><text:a xlink:type="simple" xlink:href="2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T26">here</text:span></text:a><text:span text:style-name="T18">, </text:span><text:span text:style-name="T26">otherwise </text:span><text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/Documentation/2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T26">download it</text:span></text:a><text:span text:style-name="T26">)</text:span><text:span text:style-name="T23">.</text:span></text:p>
+     <text:p text:style-name="P37"><text:span text:style-name="T52">If there are often </text:span><text:bookmark-start text:name="problems with internet connection"/><text:span text:style-name="T52">problems with your internet connection</text:span><text:bookmark-end text:name="problems with internet connection"/>, or if it only works reliably in the small hours of the morning, or if your Internet Service Provider blocks BitTorrent Sync traffic, you will do better <text:span text:style-name="T58">using </text:span><text:span text:style-name="T23">the </text:span><text:span text:style-name="T8">LangTranUpdate</text:span><text:span text:style-name="T23"> method and get updates from the LangTran server. To do this, work through the file </text:span><text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/Documentation/2_LT_Update_setup.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T24">2_LT_Update_setup.pdf</text:span></text:a><text:span text:style-name="T24">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35"><text:span text:style-name="T36">I</text:span><text:span text:style-name="T38">f you </text:span><text:bookmark-start text:name="no good internet connection"/><text:span text:style-name="T38">never have a good and cheap internet connection</text:span><text:bookmark-end text:name="no good internet connection"/><text:span text:style-name="T30">, you can get individual installers from the LangTran system instead of from the developers&apos; websites. This can save you time and the cost of downloading advertisements and extra smart items the sponsors of the software wanted you to have. To do that, </text:span><text:span text:style-name="T29">click on this link to</text:span><text:span text:style-name="T71"> the file </text:span><text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/LangTranFiles.txt" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T80">LangTranFiles.txt</text:span></text:a><text:span text:style-name="T80"> </text:span><text:span text:style-name="T70">and the file will open in your web browser.</text:span><text:span text:style-name="T71"> </text:span><text:span text:style-name="T66">Then search that file </text:span><text:span text:style-name="T70">(</text:span><text:span text:style-name="T79">Ctrl-F</text:span><text:span text:style-name="T70"> in many browsers, </text:span><text:span text:style-name="T73">or </text:span><text:span text:style-name="T82">command-F</text:span><text:span text:style-name="T73"> on a Mac</text:span><text:span text:style-name="T70">)</text:span><text:span text:style-name="T66"> for the installer that you want, and note the </text:span><text:span text:style-name="T70">folder</text:span><text:span text:style-name="T66"> that it is in, </text:span><text:span text:style-name="T69">such as </text:span><text:span text:style-name="T87">Linguistics_win</text:span><text:span text:style-name="T66">. Then </text:span><text:span text:style-name="T70">click on </text:span><text:a xlink:type="simple" xlink:href="https://files.lingtransoft.info/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T70">LangTran file store</text:span></text:a><text:span text:style-name="T70"> to open it in your </text:span><text:span text:style-name="T66">web browser. </text:span><text:span text:style-name="T72">Browse to the folder you noted above, then right-click the file you want to download and select </text:span><text:span text:style-name="T81">Save Link As a</text:span><text:span text:style-name="T72">nd download the file.</text:span></text:p>
+     <text:p text:style-name="P35"><text:span text:style-name="T36">I</text:span><text:span text:style-name="T38">f you </text:span><text:bookmark-start text:name="no good internet connection"/><text:span text:style-name="T38">never have a good and cheap internet connection</text:span><text:bookmark-end text:name="no good internet connection"/><text:span text:style-name="T30">, you can get individual installers from the LangTran system instead of from the developers&apos; websites. This can save you time and the cost of downloading advertisements and extra smart items the sponsors of the software wanted you to have. To do that, </text:span><text:span text:style-name="T29">click on this link to</text:span><text:span text:style-name="T71"> the file </text:span><text:a xlink:type="simple" xlink:href="http://files.lingtransoft.info/LangTranFiles.txt" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T81">LangTranFiles.txt</text:span></text:a><text:span text:style-name="T81"> </text:span><text:span text:style-name="T70">and the file will open in your web browser.</text:span><text:span text:style-name="T71"> </text:span><text:span text:style-name="T66">Then search that file </text:span><text:span text:style-name="T70">(</text:span><text:span text:style-name="T80">Ctrl-F</text:span><text:span text:style-name="T70"> in many browsers, </text:span><text:span text:style-name="T73">or </text:span><text:span text:style-name="T83">command-F</text:span><text:span text:style-name="T73"> on a Mac</text:span><text:span text:style-name="T70">)</text:span><text:span text:style-name="T66"> for the installer that you want, and </text:span><text:span text:style-name="T74">write down the name of</text:span><text:span text:style-name="T66"> the </text:span><text:span text:style-name="T70">folder</text:span><text:span text:style-name="T66"> that it is in, </text:span><text:span text:style-name="T69">such as </text:span><text:span text:style-name="T88">Linguistics_win</text:span><text:span text:style-name="T66">. Then </text:span><text:span text:style-name="T70">click on </text:span><text:a xlink:type="simple" xlink:href="https://files.lingtransoft.info/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T70">LangTran file store</text:span></text:a><text:span text:style-name="T70"> to open it in your </text:span><text:span text:style-name="T66">web browser. </text:span><text:span text:style-name="T72">Browse to the folder you noted above, then right-click the file you want to download and select </text:span><text:span text:style-name="T82">Save Link As a</text:span><text:span text:style-name="T72">nd download the file.</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P38"><text:span text:style-name="T37">If your </text:span><text:bookmark-start text:name="support department copy"/><text:span text:style-name="T37">support department maintains an up-to-date local copy</text:span><text:bookmark-end text:name="support department copy"/><text:span text:style-name="T19"> of the LangTran files, you can pick up the latest installers from their network server when you are at the support centre. </text:span><text:span text:style-name="T27">So that you don&apos;t have to remember to collect the latest installer for each program you might need in a remote location and update them individually, </text:span><text:span text:style-name="T19">I suggest you set up a synchronizing tool such as </text:span><text:span text:style-name="T28">Resilio Sync (or </text:span><text:span text:style-name="T19">BitTorrent Sync</text:span><text:span text:style-name="T28">)</text:span><text:span text:style-name="T19"> to update the repository on your personal computer from this site before you leave the internet and travel to a remote place. Your support people would need to give you the read-only “</text:span><text:span text:style-name="T32">key</text:span><text:span text:style-name="T19">” for the files in their repository </text:span><text:span text:style-name="T31">for Resilio/BitTorrent Sync to work</text:span><text:span text:style-name="T19">.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P29"><text:span text:style-name="T19">So now it&apos;s time to decide which of the </text:span><text:span text:style-name="T23">f</text:span><text:span text:style-name="T25">our</text:span><text:span text:style-name="T19"> options above you want to use, and click on the appropriate link </text:span><text:span text:style-name="T25">above </text:span><text:span text:style-name="T19">to continue setting up the LangTran system. If you have any problems doing </text:span><text:soft-page-break/><text:span text:style-name="T19">that, feel free to email </text:span><text:a xlink:type="simple" xlink:href="mailto:Owner_LangTran@SIL.org" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19">Owner_LangTran@SIL.org</text:span></text:a><text:span text:style-name="T19"> and ask for help. I could connect to your computer and set up the system for you.</text:span></text:p>
-   <text:p text:style-name="P8">End of <text:span text:style-name="T57">section 1 of the </text:span>setup documentation.</text:p>
+   <text:p text:style-name="P29"><text:span text:style-name="T19">So now it&apos;s time to decide which of the </text:span><text:span text:style-name="T23">f</text:span><text:span text:style-name="T25">our</text:span><text:span text:style-name="T19"> options above you want to use, and click on the appropriate link </text:span><text:span text:style-name="T25">above </text:span><text:span text:style-name="T19">to continue setting up the LangTran system. If you have any problems doing </text:span><text:span text:style-name="T19">that, feel free to email </text:span><text:a xlink:type="simple" xlink:href="mailto:Owner_LangTran@SIL.org" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19">Owner_LangTran@SIL.org</text:span></text:a><text:span text:style-name="T19"> and ask for help. I could connect to your computer and set up the system for you.</text:span></text:p>
+   <text:p text:style-name="P8"><text:soft-page-break/>End of <text:span text:style-name="T57">section 1 of the </text:span>setup documentation.</text:p>
   </office:text>
  </office:body>
 </office:document>
